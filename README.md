@@ -2,7 +2,7 @@
 
 ## The [Collaboratory@Columbia](http://collaboratory.columbia.edu/)
 
-### The Columbia [Data Science Institute](http://datascience.columbia.edu/) and [Columbia Enterpreneuship](http://entrepreneurship.columbia.edu/) are organizing the Second Week-long Intensive Data Science Bootcamp
+### The Columbia [Data Science Institute](http://datascience.columbia.edu/) and [Columbia Entrepreneurship](http://entrepreneurship.columbia.edu/) are organizing the Second Week-long Intensive Data Science Bootcamp
 
 - When: January 8th – 12th, 2018
 - Where: Columbia Entrepreneurship Design Studio, Room 430 of the Riverside Church (490 Riverside Dr, New York, NY 10027)
